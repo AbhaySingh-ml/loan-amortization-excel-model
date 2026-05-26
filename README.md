@@ -1,4 +1,4 @@
-# Loan Amortization Financial Model (Excel) 1 2
+# Loan Amortization Financial Model (Excel) 1 2 3
 
 ## Project Overview
 
